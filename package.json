@@ -102,7 +102,7 @@
     "mocha": "^3.2.0",
     "morgan": "^1.7.0",
     "nyc": "^6.4.4",
-    "open": "0.0.5",
+    "open": "6.0.0",
     "protractor": "^5.1.1",
     "proxyquire": "^1.7.4",
     "requirejs": "^2.1.17",
